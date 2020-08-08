@@ -1,6 +1,6 @@
 # password_keeper
-
-A new Flutter application.
+ 
+Save user id and password in local storage with fingerprint service to enhance the security of application.
 
 ## Getting Started
 
